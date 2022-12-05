@@ -1,2 +1,4 @@
 
 Este es el archivo de licencia del proyecto
+
+Esta línea se ha añadido desde el repositorio remoto.
